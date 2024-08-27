@@ -25,3 +25,9 @@ The VLAN-based architecture supports secure communication, resource allocation, 
 
 
 <img width="756" alt="Screenshot 2024-08-26 at 10 25 04 AM" src="https://github.com/user-attachments/assets/09036540-1fa6-44b8-9d29-c47a32009ae9">
+
+
+[Dana Al Rijjal](https://github.com/daaalrijjal)
+<br  />
+[Jouri AlDaghma](https://github.com/jourialdagh)
+

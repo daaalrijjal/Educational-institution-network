@@ -1,31 +1,19 @@
 # Educational-institution-network
 
 
-This project outlines the network design for a medium-sized educational institution with three campuses—North, South, and Central. Each campus is dedicated to specific functions and operates within its own VLAN to enhance security and efficiency.
+This project involves the design and simulation of a network using Cisco Packet Tracer for an educational institution spanning three distinct campuses: North, South, and Central. Each campus has specialized roles—North focuses on Computer Science and Engineering, South on Business Studies, and Central serves as the administrative hub.
 
-- **North Campus:** Focuses on Computer Science and Engineering, with labs, classrooms, and faculty offices.
-- **South Campus:** Dedicated to Business Studies, with seminar halls and administrative spaces.
-- **Central Campus:** The administrative hub, including offices, finance, HR, and a central library.
+The network architecture is structured using VLANs to segregate traffic and ensure secure, efficient communication between campuses. These VLANs are interconnected through a variety of networking mediums, facilitating seamless data flow and collaboration across different departments.
 
-The VLAN-based architecture supports secure communication, resource allocation, and scalability.
+To manage the network effectively, various protocols are employed. These include DHCP for dynamic IP address allocation, ensuring that devices within each VLAN can communicate without manual configuration. Additionally, security protocols and routing configurations are in place to enforce access restrictions, maintain data integrity, and manage inter-campus communication.
 
-## End Devices
-
-- **PCs, Laptops, Tablets:** Used across labs, offices, and by students for academic and administrative purposes.
-- **Printers:** Located in various departments for document printing.
-- **DHCP & DNS Servers:** Manage IP assignments and ensure internal resources are accessible via domain names.
-
-## Intermediate Devices
-
-- **Switches and Routers:** Manage VLAN traffic and ensure connectivity across campuses.
-- **Access Points (APs):** Provide wireless network access within campuses.
-- **Routing Protocol:** RIP is configured to handle routing between VLANs efficiently.
-
+Overall, the network is designed to meet the diverse needs of the institution, providing robust, scalable, and secure connectivity for both academic and administrative functions across all campuses.
 
 
 
 <img width="756" alt="Screenshot 2024-08-26 at 10 25 04 AM" src="https://github.com/user-attachments/assets/09036540-1fa6-44b8-9d29-c47a32009ae9">
 
+##Project team
 
 [Dana Al Rijjal](https://github.com/daaalrijjal)
 <br  />

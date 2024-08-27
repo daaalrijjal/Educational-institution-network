@@ -13,7 +13,7 @@ Overall, the network is designed to meet the diverse needs of the institution, p
 
 <img width="756" alt="Screenshot 2024-08-26 at 10 25 04 AM" src="https://github.com/user-attachments/assets/09036540-1fa6-44b8-9d29-c47a32009ae9">
 
-##Project team
+## Project team
 
 [Dana Al Rijjal](https://github.com/daaalrijjal)
 <br  />
